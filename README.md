@@ -4,18 +4,30 @@
 
 ## 🎮 好玩的
 
-- 在自己源码上渲染的贪吃蛇游戏。—— [2019 / 05 / 05 ](https://github.com/sunhengzhe/Treasure-Daily/issues/5)
-- 终端上的 Gameboy 模拟器。—— [2019 / 05 / 03 ](https://github.com/sunhengzhe/Treasure-Daily/issues/3)
-- 解锁网易云无版权，原理还挺机智。—— [2019 / 04 / 30 ](https://github.com/sunhengzhe/Treasure-Daily/issues/1)
+- 在自己源码上渲染的贪吃蛇游戏。—— [2019 / 05 / 05](https://github.com/sunhengzhe/Treasure-Daily/issues/5)
+- 终端上的 Gameboy 模拟器。—— [2019 / 05 / 03](https://github.com/sunhengzhe/Treasure-Daily/issues/3)
+- 解锁网易云无版权，原理还挺机智。—— [2019 / 04 / 30](https://github.com/sunhengzhe/Treasure-Daily/issues/1)
 
 ## 🛠 好用的
 
-- 前端各种 UI 组件库的名单收集。—— [2019 / 05 / 01 ](https://github.com/sunhengzhe/Treasure-Daily/issues/2)
-- iOS 网络调试工具 Bagel。—— [2019 / 04 / 30 ](https://github.com/sunhengzhe/Treasure-Daily/issues/1)
+- 前端各种 UI 组件库的名单收集。—— [2019 / 05 / 01](https://github.com/sunhengzhe/Treasure-Daily/issues/2)
+- iOS 网络调试工具 Bagel。—— [2019 / 04 / 30](https://github.com/sunhengzhe/Treasure-Daily/issues/1)
 
 ## 🎨 好看的
 
-- VS Code 高亮字体主题。—— [2019 / 04 / 30 ](https://github.com/sunhengzhe/Treasure-Daily/issues/1)
+- VS Code 高亮字体主题。—— [2019 / 04 / 30](https://github.com/sunhengzhe/Treasure-Daily/issues/1)
+
+## 🌎 科学上网
+
+- [一个基于浏览器端 JS 实现的在线代理](https://github.com/EtherDream/jsproxy)
+
+## 📚速查手册
+
+- [Linux 命令手册](https://github.com/jaywcjlove/linux-command)
+
+## ⚡️ 效率
+
+- [开发效率提升：Mac生产力工具链推荐](https://github.com/Louiszhai/tool)
 
 ## 📝 刷刷 LeetCode 吧
 
