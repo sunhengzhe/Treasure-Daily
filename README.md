@@ -16,3 +16,18 @@
 ## 🎨 好看的
 
 - VS Code 高亮字体主题。—— [2019 / 04 / 30 ](https://github.com/sunhengzhe/Treasure-Daily/issues/1)
+
+## 📝 刷刷 LeetCode 吧
+
+### 提高刷题效率
+
+- [如何在 VS Code 中调试 LeetCode 代码](https://zhuanlan.zhihu.com/p/62521108)
+
+### 看看别人咋做的
+
+- [不仅是 LeetCode 题目的解析和实现，还将解析以动画的形式展示。](https://github.com/MisterBooo/LeetCodeAnimation)
+- [C++](https://github.com/haoel/leetcode)
+- [Python / Java](https://github.com/qiyuangong/leetcode)
+- [Swift](https://github.com/soapyigu/LeetCode-Swift)
+- [Go](https://github.com/aQuaYi/LeetCode-in-Go)
+- [Javascript](https://github.com/azl397985856/leetcode)
