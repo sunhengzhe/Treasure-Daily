@@ -12,6 +12,7 @@
 
 - 前端各种 UI 组件库的名单收集。—— [2019 / 05 / 01](https://github.com/sunhengzhe/Treasure-Daily/issues/2)
 - iOS 网络调试工具 Bagel。—— [2019 / 04 / 30](https://github.com/sunhengzhe/Treasure-Daily/issues/1)
+- [排序算法的可视化](https://www.toptal.com/developers/sorting-algorithms)
 
 ## 🎨 好看的
 
