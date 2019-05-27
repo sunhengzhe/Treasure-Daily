@@ -17,6 +17,8 @@
 ## 🎨 好看的
 
 - VS Code 高亮字体主题。—— [2019 / 04 / 30](https://github.com/sunhengzhe/Treasure-Daily/issues/1)
+- [各个国家人均收入可视化](https://www.gapminder.org/tools/#$state$time$value=2018;;&chart-type=bubbles)
+- [图解机器学习](http://www.r2d3.us/)（这可以说是我看过的交互最棒的教程了）
 
 ## 🌎 科学上网
 
